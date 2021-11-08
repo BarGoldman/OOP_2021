@@ -2,10 +2,11 @@
 OOP course Ariel University for 2021
 
 
-first link: https://e-space.mmu.ac.uk/617034/1/WCE2016_pp671-673.pdf
-
-
-
+First link: https://e-space.mmu.ac.uk/617034/1/WCE2016_pp671-673.pdf
+The article shows the problems that currently exists with the unwise elevators, such as congestion inside one of the elevators or 
+Long time of waiting and standing inside the elevator. The article shows a solution that uses  
+Artificial intelligence, and although in this task we do not touch artificial intelligence, the article helps us understand the 
+The main problems that there are in the elevators are old and thus helps us find an effective solution that will solve these problems.
 
 
 second link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9003300 
