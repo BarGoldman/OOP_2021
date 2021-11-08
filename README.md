@@ -1,5 +1,7 @@
 # OOP_2021
 OOP course Ariel University for 2021
+Our project presents an implementation of the offline algorithm of a smart elevator system in a high-rise building,
+using an efficient data structure with the aim that the entire waiting for the elevator will be reduced to a minimum.
 
 
 First link: https://e-space.mmu.ac.uk/617034/1/WCE2016_pp671-673.pdf
